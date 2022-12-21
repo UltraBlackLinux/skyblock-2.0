@@ -74,9 +74,9 @@
       ],
       "location": {
         "world": "world",
-        "x": -19.0,
-        "y": 70.0,
-        "z": -48.0
+        "x": -9.5,
+        "y": 69.0,
+        "z": -125.5
       },
       "interaction": [
         "My specialties are ores, stone, and mining equipment.",
@@ -164,9 +164,9 @@
       ],
       "location": {
         "world": "world",
-        "x": -19.0,
+        "x": -50.0,
         "y": 70.0,
-        "z": -90.0
+        "z": -69.0
       },
       "interaction": [
         "Buy and sell wood and axes with me!",
@@ -260,9 +260,9 @@
       ],
       "location": {
         "world": "world",
-        "x": -7.0,
+        "x": 15.0,
         "y": 70.0,
-        "z": -48.0
+        "z": -72.0
       },
       "interaction": [
         "You can buy and sell harvested crops with me!",
@@ -309,9 +309,9 @@
       ],
       "location": {
         "world": "world",
-        "x": -25.0,
-        "y": 70.0,
-        "z": -77.0
+        "x": 52.0,
+        "y": 68.0,
+        "z": -83.0
       },
       "interaction": [
         "Fishing is my trade.",
@@ -400,9 +400,9 @@
       ],
       "location": {
         "world": "world",
-        "x": -25.0,
-        "y": 70.0,
-        "z": -90.0
+        "x": -12.0,
+        "y": 68.0,
+        "z": -141.0
       },
       "interaction": [
         "A great warrior is nothing without their armor!",
@@ -484,9 +484,9 @@
       ],
       "location": {
           "world": "world",
-          "x": -19.0,
+          "x": -42.0,
           "y": 70.0,
-          "z": -77.0
+          "z": -64.0
       },
       "interaction": [
         "I've seen it all - every island from here to the edge of the world!",
@@ -546,9 +546,9 @@
       ],
       "location": {
           "world": "world",
-          "x": -19.0,
-          "y": 70.0,
-          "z": -42.0
+          "x": -10.5,
+          "y": 69.0,
+          "z": -130.5
       },
       "interaction": [
         "You'll need some strong weapons to survive out in the wild! Lucky for you, I've got some!",
@@ -563,9 +563,9 @@
       "items": [],
       "location": {
           "world": "world",
-          "x": -7.0,
-          "y": 70.0,
-          "z": -42.0
+          "x": -51.0,
+          "y": 71.0,
+          "z": -28.5
       },
       "interaction": [
         "If you build, they will come!",
@@ -641,9 +641,9 @@
       ],
       "location": {
           "world": "world",
-          "x": 18.0,
-          "y": 71.0,
-          "z": -16.0
+          "x": -36.0,
+          "y": 69.0,
+          "z": -113.0
       },
       "interaction": [
         "I say something idk!",
